@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Get with us
-datePublished: '2015-12-09T04:29:38.853Z'
-dateModified: '2015-12-08T19:41:50.282Z'
+datePublished: '2015-12-09T04:29:53.476Z'
+dateModified: '2015-12-09T04:29:38.853Z'
 title: Three Simples
 author: []
 sourcePath: _posts/2015-12-08-three-simples.md
