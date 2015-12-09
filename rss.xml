@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Excelcreditcard]]></title>
+        <description><![CDATA[Excelcreditcard]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 04:30:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Three Simples]]></title>
+            <description><![CDATA[<article><h1>Three Simples</h1><p>Simple solution Simple plan Simple thought</p></article>]]></description>
+            <link>undefinedthree-simples/index.html</link>
+            <guid isPermaLink="false">27f07f10-2cdf-4209-995d-de7bff7a0918</guid>
+            <pubDate>Wed, 09 Dec 2015 04:29:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
