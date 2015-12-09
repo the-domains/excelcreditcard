@@ -1,11 +1,11 @@
 ---
 description: Major Payment Processor Demands That Daily Fantasy Sports Sites Exit New York - Legal Sports Report
 author: []
-datePublished: '2015-12-09T06:08:17.402Z'
+datePublished: '2015-12-09T06:08:37.612Z'
 publisher:
   domain: ''
   name: ''
-dateModified: '2015-12-09T06:00:55.246Z'
+dateModified: '2015-12-09T06:08:17.402Z'
 title: ''
 sourcePath: _posts/2015-12-09-major-payment-processor-demands-that-daily-fantasy-sports-si.md
 published: true
