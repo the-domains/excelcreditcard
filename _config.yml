@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 typography_spectrum: 0.2706093
 color:
   saturation: 0.1756629
   brandStrength: 0.5483871
-  rhythmicContrast: 0.7113388
-  brandColors:
-    - '#FCFBFB'
-    - '#C6BDC6'
-    - '#28222E'
-    - '#995430'
-    - '#AD036C'
   lightness: 0.8516374
+  brandColors:
+    - '#E8E9E0'
+    - '#373932'
+    - '#D0B42F'
+    - '#BE302F'
+    - '#55BEC6'
+  rhythmicContrast: 0.7113388
 layout_spectrum: 1
 name: Excelcreditcard
